@@ -1,0 +1,39 @@
+.box {
+    width: 1200px;
+    background-color: white;
+}
+.box  h2:hover {
+    text-decoration: underline;
+}
+.box .box-image {
+    float: left;
+
+    width: 119px;
+    height: 85px;
+    margin-right: 11px;
+}
+
+.box-body .rq {
+    font-size: 10px;
+    color: #7f7f7f;
+}
+
+.box h2 {
+    font-size: 21px;
+    line-height: 24px;
+    font-weight: normal;
+    color: #b1191a
+}
+
+.box .box-body .text {
+    font-size: 13px;
+    line-height: 17px;
+    color: #6B6B6B;
+}
+
+.box .box-body .continue {
+
+    font-size: 9px;
+    color: #b1191a;
+
+}
